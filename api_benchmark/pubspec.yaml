@@ -21,5 +21,6 @@ dev_dependencies:
     path: "../protoc_plugin"
 
 dependency_overrides:
+  meta: 1.6.0
   protobuf:
     path: "../protobuf"
